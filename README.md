@@ -15,7 +15,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Projetos para praticar 
 - [ ] 50%
 - [ ] Desafios
-## 💻 Pré-requisitos
+
 
 
 
